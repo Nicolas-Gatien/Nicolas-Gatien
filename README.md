@@ -20,6 +20,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [💵 Figuring out Proof of Stake! &lpar;Building my Own Blockchain&rpar;](https://www.youtube.com/watch?v=TlvqC6oAuL0)
+- [Convincing My Siblings to Use 🧊PolarToken](https://www.youtube.com/watch?v=XeBkEViXnIA)
+- [Building a Crypto Miner with a Raspberry Pi 🥧](https://www.youtube.com/watch?v=YeiPBB5Xzkk)
+- [Mathematics VR - Presentation](https://www.youtube.com/watch?v=LUDeMC13UOE)
+- [Ripple Pitch Video](https://www.youtube.com/watch?v=6qXduKkcZss)
 <!-- YOUTUBE:END -->
 
 ---
