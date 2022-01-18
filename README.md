@@ -18,6 +18,12 @@
 
 ---
 
+### 📺 Latest Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 ### 📕 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
