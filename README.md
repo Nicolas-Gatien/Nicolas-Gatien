@@ -27,3 +27,7 @@
 ### 📕 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Gatien)](https://github.com/Nicolas-Gatien/github-readme-stats)
