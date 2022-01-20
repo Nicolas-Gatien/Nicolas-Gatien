@@ -31,7 +31,7 @@
 
 ### 📕 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
-- [An Overview of Blockchain and Cryptocurrencies!](https://medium.com/cryptostars/an-overview-of-blockchain-and-cryptocurrencies-60ee6e5875dc?source=rss-b23e96a20e71------2)
+- [An Overview of Blockchain and Cryptocurrencies!](https://blog.cryptostars.is/an-overview-of-blockchain-and-cryptocurrencies-60ee6e5875dc?source=rss-b23e96a20e71------2)
 - [Proof of Stake vs Proof of Work](https://nicolas-gatien.medium.com/proof-of-stake-vs-proof-of-work-cda6fa528deb?source=rss-b23e96a20e71------2)
 - [What’s the difference between Ethereum and Solana?](https://nicolas-gatien.medium.com/which-is-better-ethereum-or-solana-7c987793bf29?source=rss-b23e96a20e71------2)
 - [Turning My Dad’s Raspberry Pi into a Crypto Miner](https://nicolas-gatien.medium.com/turning-my-dads-raspberry-pi-into-a-crypto-miner-d65d978d3dee?source=rss-b23e96a20e71------2)
