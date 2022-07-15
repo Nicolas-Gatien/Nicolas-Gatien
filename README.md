@@ -20,11 +20,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [📦 Build Your Own Analog Zettelkasten &lpar;Antinet&rpar;](https://www.youtube.com/watch?v=8H2H3hvmrNQ)
 - [Visualizing Ethereum | EthVault Vlog](https://www.youtube.com/watch?v=_Ze68soSDVE)
 - [💵 Figuring out Proof of Stake! &lpar;Building my Own Blockchain&rpar;](https://www.youtube.com/watch?v=TlvqC6oAuL0)
 - [Convincing My Siblings to Use 🧊PolarToken](https://www.youtube.com/watch?v=XeBkEViXnIA)
 - [Building a Crypto Miner with a Raspberry Pi 🥧](https://www.youtube.com/watch?v=YeiPBB5Xzkk)
-- [Mathematics VR - Presentation](https://www.youtube.com/watch?v=LUDeMC13UOE)
 <!-- YOUTUBE:END -->
 
 ---
