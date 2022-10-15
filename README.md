@@ -20,11 +20,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [🧠 Creating Artificial Life - Breeding &lpar;NEAT Algorithm in Unity&rpar;](https://www.youtube.com/watch?v=6C_kWeoElM0)
 - [🍁 AutumnHacks Hackathon Submission 🍁](https://www.youtube.com/watch?v=Vvn67kCS-Y0)
 - [📦 Build Your Own Analog Zettelkasten &lpar;Antinet&rpar;](https://www.youtube.com/watch?v=8H2H3hvmrNQ)
 - [Visualizing Ethereum | EthVault Vlog](https://www.youtube.com/watch?v=_Ze68soSDVE)
 - [💵 Figuring out Proof of Stake! &lpar;Building my Own Blockchain&rpar;](https://www.youtube.com/watch?v=TlvqC6oAuL0)
-- [Convincing My Siblings to Use 🧊PolarToken](https://www.youtube.com/watch?v=XeBkEViXnIA)
 <!-- YOUTUBE:END -->
 
 ---
