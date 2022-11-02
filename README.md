@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Designer, and Student
 - 🤖 I'm currently learning AI
-- 🕛 I'm 15 years old
+- 🕛 I'm 16 years old
 - 📚 I'm currently learning as much as I can
 - 📹 I'm starting a youtube channel
 - 🥇 2022 Goals: Publish changes at least once a week
