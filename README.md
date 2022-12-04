@@ -20,11 +20,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [💻 Creating Artificial Life #GlobalHackWeek](https://www.youtube.com/watch?v=rHRnVNmTsOA)
 - [🛫 Making a Game in 5 Hours](https://www.youtube.com/watch?v=xL8iETe0nd0)
 - [🍁 AutumnHacks Hackathon Submission 🍁](https://www.youtube.com/watch?v=Vvn67kCS-Y0)
 - [📦 Build Your Own Analog Zettelkasten &lpar;Antinet&rpar;](https://www.youtube.com/watch?v=8H2H3hvmrNQ)
 - [Visualizing Ethereum | EthVault Vlog](https://www.youtube.com/watch?v=_Ze68soSDVE)
-- [💵 Figuring out Proof of Stake! &lpar;Building my Own Blockchain&rpar;](https://www.youtube.com/watch?v=TlvqC6oAuL0)
 <!-- YOUTUBE:END -->
 
 ---
