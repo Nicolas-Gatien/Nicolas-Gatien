@@ -4,8 +4,6 @@
 - 🤖 I'm currently learning AI
 - 🕛 I'm 16 years old
 - 📚 I'm currently learning as much as I can
-- 📹 I'm starting a youtube channel
-- 🥇 2022 Goals: Publish changes at least once a week
 
 ### 🔗 Connect With Me:
 
