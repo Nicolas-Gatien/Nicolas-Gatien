@@ -1,7 +1,7 @@
 ### Hello! I'm Nicolas, I code.
 
 ## I'm a Developer, Designer, and Student
-- 🤖 I'm currently learning AI
+- 🤖 Attempting to understand Reinforcement Learning
 - 🕛 I'm 16 years old
 - 📚 I'm currently learning as much as I can
 
