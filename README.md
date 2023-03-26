@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Pizza Recognition Capabilities in AI](https://www.youtube.com/watch?v=ja85ooB4n8o)
 - [Processing *Meditations* With a Zettelkasten &lpar;Antinet&rpar;](https://www.youtube.com/watch?v=JF8gyijd4eQ)
 - [💻 Building The NEAT Algorithm From Scratch in Python #GlobalHackWeek](https://www.youtube.com/watch?v=rHRnVNmTsOA)
 - [🛫 Making a Game in 5 Hours](https://www.youtube.com/watch?v=xL8iETe0nd0)
 - [🍁 AutumnHacks Hackathon Submission 🍁](https://www.youtube.com/watch?v=Vvn67kCS-Y0)
-- [📦 Build Your Own Analog Zettelkasten &lpar;Antinet&rpar;](https://www.youtube.com/watch?v=8H2H3hvmrNQ)
 <!-- YOUTUBE:END -->
 
 ---
