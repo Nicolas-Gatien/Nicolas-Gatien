@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Introduction to ChatGPT &lpar;Presentation&rpar;](https://www.youtube.com/watch?v=EEB96iAa5rY)
 - [How Quantity Leads to Quality](https://www.youtube.com/watch?v=jkH2swx8WuI)
 - [Zettelkasten - How Categories Emerge](https://www.youtube.com/watch?v=tdHH3YjOnZE)
 - [Pizza Recognition Capabilities in AI](https://www.youtube.com/watch?v=ja85ooB4n8o)
 - [Processing *Meditations* With a Zettelkasten &lpar;Antinet&rpar;](https://www.youtube.com/watch?v=JF8gyijd4eQ)
-- [💻 Building The NEAT Algorithm From Scratch in Python #GlobalHackWeek](https://www.youtube.com/watch?v=rHRnVNmTsOA)
 <!-- YOUTUBE:END -->
 
 ---
