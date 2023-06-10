@@ -18,7 +18,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Create Designated Areas](https://www.youtube.com/watch?v=2GVDQ252PYA)
+- [Reorganizing My Room To Increase Flow](https://www.youtube.com/watch?v=2GVDQ252PYA)
 - [Introduction to ChatGPT &lpar;Presentation&rpar;](https://www.youtube.com/watch?v=EEB96iAa5rY)
 - [How Quantity Leads to Quality](https://www.youtube.com/watch?v=jkH2swx8WuI)
 - [Zettelkasten - How Categories Emerge](https://www.youtube.com/watch?v=tdHH3YjOnZE)
