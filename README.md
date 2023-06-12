@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Do Sprints](https://www.youtube.com/watch?v=FgpCA2NRBDQ)
 - [Replicating Humanity is Crucial](https://www.youtube.com/watch?v=E--Xggp4AZk)
 - [Reorganizing My Room To Increase Flow](https://www.youtube.com/watch?v=2GVDQ252PYA)
 - [Introduction to ChatGPT &lpar;Presentation&rpar;](https://www.youtube.com/watch?v=EEB96iAa5rY)
 - [How Quantity Leads to Quality](https://www.youtube.com/watch?v=jkH2swx8WuI)
-- [Zettelkasten - How Categories Emerge](https://www.youtube.com/watch?v=tdHH3YjOnZE)
 <!-- YOUTUBE:END -->
 
 ---
