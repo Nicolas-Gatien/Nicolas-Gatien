@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [What I&#39;m Doing On My Gap Year](https://www.youtube.com/watch?v=yGh1TGRTiqs)
 - [Don&#39;t Make A Resume](https://www.youtube.com/watch?v=lTHQIkIGKuI)
 - [How To Climb A Tree](https://www.youtube.com/watch?v=Eq9ZM8DD1ak)
 - [Make Your Own Chatbot With ChatGPT](https://www.youtube.com/watch?v=4pzFOlZtdCM)
 - [Do Sprints](https://www.youtube.com/watch?v=FgpCA2NRBDQ)
-- [Replicating Humanity is Crucial](https://www.youtube.com/watch?v=E--Xggp4AZk)
 <!-- YOUTUBE:END -->
 
 ---
