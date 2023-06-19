@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [MUSE - mk1](https://www.youtube.com/watch?v=XuXzmpUtB4E)
 - [Refabricating Reality Schemes](https://www.youtube.com/watch?v=YSHCgcN-3y0)
 - [Artificial Memory System](https://www.youtube.com/watch?v=go5PGkzMzlM)
 - [How Homeschooling Enabled Me To Graduate 1.5 Years Early](https://www.youtube.com/watch?v=pQmLduUSCTI)
 - [What I&#39;m Doing On My Gap Year](https://www.youtube.com/watch?v=yGh1TGRTiqs)
-- [Don&#39;t Make A Resume](https://www.youtube.com/watch?v=lTHQIkIGKuI)
 <!-- YOUTUBE:END -->
 
 ---
