@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Command Interpretability](https://www.youtube.com/watch?v=2CrCMOblXIU)
 - [Layered Skills](https://www.youtube.com/watch?v=bgS0WGbhmh8)
 - [Stuck On Automatic Command Generation](https://www.youtube.com/watch?v=l8Whvx-H55w)
 - [MUSE - mk1](https://www.youtube.com/watch?v=XuXzmpUtB4E)
 - [Refabricating Reality Schemes](https://www.youtube.com/watch?v=YSHCgcN-3y0)
-- [Artificial Memory System](https://www.youtube.com/watch?v=go5PGkzMzlM)
 <!-- YOUTUBE:END -->
 
 ---
