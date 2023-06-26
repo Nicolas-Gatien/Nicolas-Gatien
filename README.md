@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Self Upgrading Chatbot](https://www.youtube.com/watch?v=VI5Ljhi9YcM)
 - [Home Made Jarvis &lpar;In Progress&rpar;](https://www.youtube.com/watch?v=uN9OOlFRvPA)
 - [Simplifying Scripts](https://www.youtube.com/watch?v=Jk1-sUJ6pYk)
 - [Command Interpretability](https://www.youtube.com/watch?v=2CrCMOblXIU)
 - [Layered Skills](https://www.youtube.com/watch?v=bgS0WGbhmh8)
-- [Stuck On Automatic Command Generation](https://www.youtube.com/watch?v=l8Whvx-H55w)
 <!-- YOUTUBE:END -->
 
 ---
