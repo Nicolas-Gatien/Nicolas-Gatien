@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [There is a Major Flaw in my AI System](https://www.youtube.com/watch?v=naN-FDKsHho)
 - [Thinking about complex problems](https://www.youtube.com/watch?v=O06C8_6egu0)
 - [Self Upgrading Chatbot](https://www.youtube.com/watch?v=VI5Ljhi9YcM)
 - [Home Made Jarvis &lpar;In Progress&rpar;](https://www.youtube.com/watch?v=uN9OOlFRvPA)
 - [Simplifying Scripts](https://www.youtube.com/watch?v=Jk1-sUJ6pYk)
-- [Command Interpretability](https://www.youtube.com/watch?v=2CrCMOblXIU)
 <!-- YOUTUBE:END -->
 
 ---
