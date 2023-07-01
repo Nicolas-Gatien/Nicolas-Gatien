@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [My AI Can Remember](https://www.youtube.com/watch?v=ktyEcIsCV7s)
 - [Two Different Memory Models](https://www.youtube.com/watch?v=ErU5heIwctU)
 - [Progress On Long Term Memory](https://www.youtube.com/watch?v=isLbRvm10Io)
 - [Memory Storage System](https://www.youtube.com/watch?v=yjkKNSqxp0Q)
 - [There is a Major Flaw in my AI System](https://www.youtube.com/watch?v=naN-FDKsHho)
-- [Thinking about complex problems](https://www.youtube.com/watch?v=O06C8_6egu0)
 <!-- YOUTUBE:END -->
 
 ---
