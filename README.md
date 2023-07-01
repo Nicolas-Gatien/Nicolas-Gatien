@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Two Different Memory Models](https://www.youtube.com/watch?v=ErU5heIwctU)
 - [Progress On Long Term Memory](https://www.youtube.com/watch?v=isLbRvm10Io)
 - [Memory Storage System](https://www.youtube.com/watch?v=yjkKNSqxp0Q)
 - [There is a Major Flaw in my AI System](https://www.youtube.com/watch?v=naN-FDKsHho)
 - [Thinking about complex problems](https://www.youtube.com/watch?v=O06C8_6egu0)
-- [Self Upgrading Chatbot](https://www.youtube.com/watch?v=VI5Ljhi9YcM)
 <!-- YOUTUBE:END -->
 
 ---
