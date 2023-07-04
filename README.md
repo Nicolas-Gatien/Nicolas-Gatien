@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Moving Towards Personality](https://www.youtube.com/watch?v=Ee-NVy9Ml2s)
 - [GPT is a Tool Not a Brain](https://www.youtube.com/watch?v=q4uTckhjhHM)
 - [My AI Can Remember](https://www.youtube.com/watch?v=ktyEcIsCV7s)
 - [Two Different Memory Models](https://www.youtube.com/watch?v=ErU5heIwctU)
 - [Progress On Long Term Memory](https://www.youtube.com/watch?v=isLbRvm10Io)
-- [Memory Storage System](https://www.youtube.com/watch?v=yjkKNSqxp0Q)
 <!-- YOUTUBE:END -->
 
 ---
