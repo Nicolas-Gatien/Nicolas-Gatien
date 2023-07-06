@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Keeping It Simple](https://www.youtube.com/watch?v=mdZ-Ele7Y-A)
 - [Paying Off Technical Debt](https://www.youtube.com/watch?v=UBcBfqfLbxQ)
 - [Moving Towards Personality](https://www.youtube.com/watch?v=Ee-NVy9Ml2s)
 - [GPT is a Tool Not a Brain](https://www.youtube.com/watch?v=q4uTckhjhHM)
 - [My AI Can Remember](https://www.youtube.com/watch?v=ktyEcIsCV7s)
-- [Two Different Memory Models](https://www.youtube.com/watch?v=ErU5heIwctU)
 <!-- YOUTUBE:END -->
 
 ---
