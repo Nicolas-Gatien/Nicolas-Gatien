@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Creating Charismatic AI &lpar;Building Orion&rpar;](https://www.youtube.com/watch?v=_4QhDiWUdQw)
+- [Creating Charismatic AI &lpar;Building Orion&rpar;](https://www.youtube.com/watch?v=qSDf-LuyUE4)
 - [The Plan](https://www.youtube.com/watch?v=wRONBLvZfcE)
 - [The Final Video](https://www.youtube.com/watch?v=50RT2ZI1Yr4)
 - [Keeping It Simple](https://www.youtube.com/watch?v=mdZ-Ele7Y-A)
-- [Paying Off Technical Debt](https://www.youtube.com/watch?v=UBcBfqfLbxQ)
-- [Moving Towards Personality](https://www.youtube.com/watch?v=Ee-NVy9Ml2s)
 <!-- YOUTUBE:END -->
 
 ---
