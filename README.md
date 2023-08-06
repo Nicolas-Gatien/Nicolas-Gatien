@@ -18,8 +18,8 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Creating Charismatic AI &lpar;Building Orion&rpar;](https://www.youtube.com/watch?v=_4QhDiWUdQw)
 - [Creating Charismatic AI &lpar;Building Orion&rpar;](https://www.youtube.com/watch?v=qSDf-LuyUE4)
+- [Creating Charismatic AI &lpar;Building Orion&rpar;](https://www.youtube.com/watch?v=_4QhDiWUdQw)
 - [The Plan](https://www.youtube.com/watch?v=wRONBLvZfcE)
 - [The Final Video](https://www.youtube.com/watch?v=50RT2ZI1Yr4)
 - [Keeping It Simple](https://www.youtube.com/watch?v=mdZ-Ele7Y-A)
