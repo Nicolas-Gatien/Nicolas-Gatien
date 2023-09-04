@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The Paper Towel Sketch](https://www.youtube.com/watch?v=524tlwK4XR8)
 - [A Comfort Song](https://www.youtube.com/watch?v=SDWUVVwPhh0)
 - [Alexa is Useless](https://www.youtube.com/watch?v=iJj09pV8slI)
 - [Creating Charismatic AI &lpar;Building Orion&rpar;](https://www.youtube.com/watch?v=qSDf-LuyUE4)
 - [Creating Charismatic AI &lpar;Building Orion&rpar;](https://www.youtube.com/watch?v=_4QhDiWUdQw)
-- [The Plan](https://www.youtube.com/watch?v=wRONBLvZfcE)
 <!-- YOUTUBE:END -->
 
 ---
