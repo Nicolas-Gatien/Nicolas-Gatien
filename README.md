@@ -18,7 +18,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Chaining ChatGPT Instances](https://www.youtube.com/watch?v=AVoBBCrcYmQ)
+- [How to Take Notes When Traveling](https://www.youtube.com/watch?v=GZjOm2_kjFA)
 - [Getting Technically Literate](https://www.youtube.com/watch?v=ZyZzRo1xHnQ)
 - [30 Minute Prototype](https://www.youtube.com/watch?v=4knXnAX49gI)
 - [Learn To Introduce Yourself](https://www.youtube.com/watch?v=T6TDsahRPq0)
