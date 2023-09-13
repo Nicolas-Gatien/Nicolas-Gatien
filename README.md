@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The Everything Journal](https://www.youtube.com/watch?v=OdUVhzb07AA)
 - [You Don&#39;t Understand Negative Reinforcement](https://www.youtube.com/watch?v=ym7CyIgWU2o)
 - [My Learning Framework](https://www.youtube.com/watch?v=g1Z1EsSap4s)
 - [Your Ideas Matter Most](https://www.youtube.com/watch?v=bCBREynjWVE)
 - [How to Take Notes When Traveling](https://www.youtube.com/watch?v=GZjOm2_kjFA)
-- [Chaining ChatGPT Instances](https://www.youtube.com/watch?v=AVoBBCrcYmQ)
 <!-- YOUTUBE:END -->
 
 ---
