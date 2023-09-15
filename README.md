@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Installing Notecards In Pre-Existing Branches](https://www.youtube.com/watch?v=NLiWXel2hTI)
 - [Project Ideas](https://www.youtube.com/watch?v=VvdTH18MkiU)
 - [The Everything Journal](https://www.youtube.com/watch?v=OdUVhzb07AA)
 - [You Don&#39;t Understand Negative Reinforcement](https://www.youtube.com/watch?v=ym7CyIgWU2o)
 - [My Learning Framework](https://www.youtube.com/watch?v=g1Z1EsSap4s)
-- [Your Ideas Matter Most](https://www.youtube.com/watch?v=bCBREynjWVE)
 <!-- YOUTUBE:END -->
 
 ---
