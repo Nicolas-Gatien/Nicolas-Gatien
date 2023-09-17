@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Tour Of My Zettelkasten](https://www.youtube.com/watch?v=28h_qVmBNKw)
 - [Follow Your Magnum Opus](https://www.youtube.com/watch?v=KeZlHsimHX8)
 - [Installing Notecards In Pre-Existing Branches](https://www.youtube.com/watch?v=NLiWXel2hTI)
 - [Project Ideas](https://www.youtube.com/watch?v=VvdTH18MkiU)
 - [The Everything Journal](https://www.youtube.com/watch?v=OdUVhzb07AA)
-- [You Don&#39;t Understand Negative Reinforcement](https://www.youtube.com/watch?v=ym7CyIgWU2o)
 <!-- YOUTUBE:END -->
 
 ---
