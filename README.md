@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Cooperative Predictive Networks](https://www.youtube.com/watch?v=iyywlXNSNyM)
 - [Creating Digital Life: Chickens](https://www.youtube.com/watch?v=NoiP_QFV-60)
 - [Tour Of My Zettelkasten](https://www.youtube.com/watch?v=28h_qVmBNKw)
 - [Follow Your Magnum Opus](https://www.youtube.com/watch?v=KeZlHsimHX8)
 - [Installing Notecards In Pre-Existing Branches](https://www.youtube.com/watch?v=NLiWXel2hTI)
-- [Project Ideas](https://www.youtube.com/watch?v=VvdTH18MkiU)
 <!-- YOUTUBE:END -->
 
 ---
