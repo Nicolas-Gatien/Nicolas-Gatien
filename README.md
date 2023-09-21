@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Leaders Act On Vision](https://www.youtube.com/watch?v=oNADLYNjUkc)
 - [The Power Of Books](https://www.youtube.com/watch?v=gMm3g1LkgF0)
 - [Cooperative Predictive Networks](https://www.youtube.com/watch?v=iyywlXNSNyM)
 - [Creating Digital Life: Chickens](https://www.youtube.com/watch?v=NoiP_QFV-60)
 - [Tour Of My Zettelkasten](https://www.youtube.com/watch?v=28h_qVmBNKw)
-- [Follow Your Magnum Opus](https://www.youtube.com/watch?v=KeZlHsimHX8)
 <!-- YOUTUBE:END -->
 
 ---
