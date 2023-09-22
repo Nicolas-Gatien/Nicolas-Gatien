@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Keep a Project Archive](https://www.youtube.com/watch?v=N6kl9-7Vq_o)
 - [Leaders Act On Vision](https://www.youtube.com/watch?v=oNADLYNjUkc)
 - [The Power Of Books](https://www.youtube.com/watch?v=gMm3g1LkgF0)
 - [Cooperative Predictive Networks](https://www.youtube.com/watch?v=iyywlXNSNyM)
 - [Creating Digital Life: Chickens](https://www.youtube.com/watch?v=NoiP_QFV-60)
-- [Tour Of My Zettelkasten](https://www.youtube.com/watch?v=28h_qVmBNKw)
 <!-- YOUTUBE:END -->
 
 ---
