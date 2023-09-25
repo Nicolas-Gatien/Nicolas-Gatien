@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [How to Continue Writing](https://www.youtube.com/watch?v=1dudApVMc7E)
 - [The Impact of Resources](https://www.youtube.com/watch?v=fm_BUPysaOo)
 - [Everything Is A Draft](https://www.youtube.com/watch?v=u1FZz7R3kUo)
 - [Keep a Project Archive](https://www.youtube.com/watch?v=N6kl9-7Vq_o)
 - [Leaders Act On Vision](https://www.youtube.com/watch?v=oNADLYNjUkc)
-- [The Power Of Books](https://www.youtube.com/watch?v=gMm3g1LkgF0)
 <!-- YOUTUBE:END -->
 
 ---
