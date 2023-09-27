@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The Deferred Life](https://www.youtube.com/watch?v=mKhHHDQ1VKI)
 - [Wear A Uniform](https://www.youtube.com/watch?v=JilBd2WIuIk)
 - [How to Continue Writing](https://www.youtube.com/watch?v=1dudApVMc7E)
 - [The Impact of Resources](https://www.youtube.com/watch?v=fm_BUPysaOo)
 - [Everything Is A Draft](https://www.youtube.com/watch?v=u1FZz7R3kUo)
-- [Keep a Project Archive](https://www.youtube.com/watch?v=N6kl9-7Vq_o)
 <!-- YOUTUBE:END -->
 
 ---
