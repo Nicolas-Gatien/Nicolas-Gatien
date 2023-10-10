@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [GPT4 is Getting Dumber](https://www.youtube.com/watch?v=H29gRG7pClA)
 - [Why Daily Videos Don&#39;t Make Sense](https://www.youtube.com/watch?v=mchLUR5D-oM)
 - [The Deferred Life](https://www.youtube.com/watch?v=mKhHHDQ1VKI)
 - [Wear A Uniform](https://www.youtube.com/watch?v=JilBd2WIuIk)
 - [How to Continue Writing](https://www.youtube.com/watch?v=1dudApVMc7E)
-- [The Impact of Resources](https://www.youtube.com/watch?v=fm_BUPysaOo)
 <!-- YOUTUBE:END -->
 
 ---
