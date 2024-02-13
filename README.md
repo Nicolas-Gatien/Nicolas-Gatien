@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [I gave my AI assistant a phone number](https://www.youtube.com/watch?v=veG4eoVk4XA)
 - [How I&#39;m Building JARVIS](https://www.youtube.com/watch?v=HrhA672hVNg)
 - [Autonomous Daily Brief Generator](https://www.youtube.com/watch?v=aOGk8OSoSYA)
 - [Upgraded Digital Assistant](https://www.youtube.com/watch?v=Fp-sIzxBMdg)
 - [Fully Autonomous AI Agent &lpar;first prototype&rpar;](https://www.youtube.com/watch?v=TayHRMFDhHY)
-- [GPT4 is Getting Dumber](https://www.youtube.com/watch?v=H29gRG7pClA)
 <!-- YOUTUBE:END -->
 
 ---
