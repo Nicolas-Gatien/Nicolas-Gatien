@@ -18,11 +18,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Background Process of Writing](https://www.youtube.com/watch?v=ImS-OM5w9Zo)
 - [I gave my AI assistant a phone number - AI Devlog](https://www.youtube.com/watch?v=veG4eoVk4XA)
 - [How I&#39;m Building JARVIS  - AI Devlog](https://www.youtube.com/watch?v=HrhA672hVNg)
 - [Autonomous Daily Brief Generator](https://www.youtube.com/watch?v=aOGk8OSoSYA)
 - [Upgraded Digital Assistant](https://www.youtube.com/watch?v=Fp-sIzxBMdg)
-- [Fully Autonomous AI Agent &lpar;first prototype&rpar;](https://www.youtube.com/watch?v=TayHRMFDhHY)
 <!-- YOUTUBE:END -->
 
 ---
