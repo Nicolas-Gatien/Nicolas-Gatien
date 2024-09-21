@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Designer, and Student
 - 🤖 Attempting to understand Reinforcement Learning
-- 🕛 I'm 17 years old
+- 🕛 I'm 18 years old
 - 📚 I'm currently learning as much as I can
 
 ### 🔗 Connect With Me:
