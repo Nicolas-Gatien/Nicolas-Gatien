@@ -7,6 +7,12 @@
 
 ---
 
+### 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=0.5&count_weight=0.5)
+
+---
+
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Background Process of Writing](https://www.youtube.com/watch?v=ImS-OM5w9Zo)
@@ -27,8 +33,4 @@
 - [Turning My Dad’s Raspberry Pi into a Crypto Miner](https://nicolas-gatien.medium.com/turning-my-dads-raspberry-pi-into-a-crypto-miner-d65d978d3dee?source=rss-b23e96a20e71------2)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-### 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=0.5&count_weight=0.5)
