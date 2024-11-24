@@ -5,15 +5,6 @@
 - 🕛 I'm 18 years old
 - 📚 I'm currently learning as much as I can
 
-### 🔗 Connect With Me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC5HFlcbkjmUAGBO6Uc4Jayw)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nicolas_gatien)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nicolas-gatien-15652a1b6/)
-
-<br />
-<br />
-
 ---
 
 ### 📺 Latest Youtube Videos
@@ -40,4 +31,4 @@
 
 ### 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=0.2&count_weight=0.8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=0.5&count_weight=0.5)
