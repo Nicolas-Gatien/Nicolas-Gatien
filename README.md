@@ -40,4 +40,4 @@
 
 ### 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=0.4&count_weight=0.6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=0.2&count_weight=0.8)
