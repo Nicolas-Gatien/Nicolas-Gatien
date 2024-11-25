@@ -5,10 +5,6 @@
 - 🕛 I'm 18 years old
 - 📚 I'm on a gap year
 
----
-
-### 💻 Top Languages
+## 💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=0.5&count_weight=0.5)
-
----
