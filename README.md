@@ -7,7 +7,8 @@ You can find more details on my long-term endeavors on my website: https://nicol
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=0.1&count_weight=0.9&langs_count=6&hide=shaderlab,hlsl,css,html,dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Gatien&layout=compact&size_weight=1.0&count_weight=0.0&langs_count=6&hide=shaderlab,hlsl,css,html,dockerfile,mathematica,jupyter%20notebook)
+
 
 
 
